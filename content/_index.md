@@ -18,32 +18,74 @@ aliases = [
 
 ---
 
-# Headers
+# Who
 
-# H1
-## H2
-### H3
-#### H4
+## Tenured
+
+| Nice picture | Name | Role |
+| ---- | ---- | ----- |
+| ![](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=341468&IdFoto=23233366) | [Andrea Omicini](https://www.unibo.it/sitoweb/andrea.omicini/en) | Full professor and Dean |
+| ![](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=355340&IdFoto=e3a7b911) | [Mirko Viroli](https://www.unibo.it/sitoweb/mirko.viroli/en) | Full professor |
+| ![](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=340844&IdFoto=bd99721f) | [Alessandro Ricci](https://www.unibo.it/sitoweb/a.ricci/en) | Associate professor |
+| ![](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=447370&IdFoto=f3c9f266) | [Andrea Roli](https://www.unibo.it/sitoweb/andrea.roli/en) | Assistant professor |
 
 ---
 
-# Text
+# Who
 
-normal text
+## Tenure track / Fixed time researchers
 
-`inline code`
+Danilo pianini and roberto casadei
 
-*italic*
+| Nice picture | Name | Role |
+| ---- | ---- | ----- |
+| ![](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=503326&IdFoto=e1c80103) | [Danilo Pianini](https://www.unibo.it/sitoweb/danilo.pianini/en) | Senior Assistant professor |
+| ![](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=649232&IdFoto=4ba13386) | [Roberto Casadei](https://www.unibo.it/sitoweb/roby.casadei/en) | Senior Assistant professor |
+| ![](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=758527&IdFoto=0d144755) | [Giovanni Ciatto](https://www.unibo.it/sitoweb/giovanni.ciatto/en) | Junior Assistant professor |
 
-**bold**
+---
 
-**_emphasized_**
+# Who
 
-*__emphasized alternative__*
+## Phd Candidates / post-docs
 
-~~strikethrough~~
+| Nice picture | Name | Role |
+| ---- | ---- | ----- |
+| ![](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=979102&IdFoto=73c988ab) | [Gianluca Aguzzi](https://www.unibo.it/sitoweb/gianluca.aguzzi/en) | PhD candidate |
 
-[link](http://www.google.com)
+---
+
+# Who
+
+## Phd Candidates / Students
+
+| Nice picture | Name | Role |
+| ---- | ---- | ----- |
+| ![](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=1444563&IdFoto=cb27afa6) | [Ruslan Shaiakhmetov](https://www.unibo.it/sitoweb/ruslan.shaiakhmetov/en) | PhD student |
+| ![](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=1135878&IdFoto=7e5aea53) | [Martina Baiardi](https://www.unibo.it/sitoweb/m.baiardi/en) | PhD student |
+| ![](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=1241268&IdFoto=19a442b7) | [Davide Domini](https://www.unibo.it/sitoweb/davide.domini/en) | PhD student |
+| ![](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=1057398&IdFoto=d40837ab) | [Nicolas Farabegoli](https://www.unibo.it/sitoweb/nicolas.farabegoli/en) | PhD student |
+
+---
+
+# Who
+
+## Research fellows
+
+| Nice picture | Name | Role |
+| ---- | ---- | ----- |
+| ![](https://www.unibo.it/uniboweb/utils/UserImage.aspx?IdAnagrafica=1195649&IdFoto=a66c31ab) | [Angelo Filaseta](https://www.unibo.it/sitoweb/angelo.filaseta/en) | Research fellow |
+| ![](cortecchia.jpg) | [Angela Cortecchia](mailto:angela.cortecchia@unibo.it) | Guest reseach fellow |
+
+---
+
+# What
+
+Pervasive computing, full spectrum, from modelling to industrial application
+
+![](group-act.svg)
+
+note: seniors omitted 
 
 ---
 
