@@ -1,17 +1,20 @@
- 
+
 +++
 
-title = "Guide for writing markdown slides"
-description = "A Hugo theme for creating Reveal.js presentations"
+title = "Pervasive Computing @ UniBo / Cesena: overview"
+description = "Quick overview of the research activities of the Pervasive Computing group at the University of Bologna, Cesena campus"
 outputs = ["Reveal"]
 aliases = [
-    "/guide/"
+    "/index/"
 ]
 
 +++
 
 
-# Short guide to Markdown slides
+# **Pervasive Computing**
+# @ UniBo / Cesena: overview
+
+#### [Danilo Pianini](mailto:danilo.pianini@unibo.it) --- {{% today %}}
 
 ---
 
@@ -256,7 +259,7 @@ Column 2
 
 Inline equations like $E=mc^2$
 
-$$\frac{n!}{k!(n-k)!} = \binom{n}{k}$$  
+$$\frac{n!}{k!(n-k)!} = \binom{n}{k}$$
 
 ---
 
@@ -269,9 +272,9 @@ val x = pippo
 
 ```go
 package main
- 
+
 import "fmt"
- 
+
 func main() {
     fmt.Println("Hello world!")
 }
@@ -290,7 +293,7 @@ Colons can be used to align columns.
 | zebra stripes | are neat      |    $1 |
 
 There must be at least 3 dashes separating each header cell.
-The outer pipes (|) are optional, and you don't need to make the 
+The outer pipes (|) are optional, and you don't need to make the
 raw Markdown line up prettily. You can also use inline Markdown.
 
 ---
@@ -391,7 +394,7 @@ classDiagram
 graph TD
   SL([fa:fa-user second level]) --> L[solution]
   L -- solution email --> db[(mysql)]
-  db --> X[automatic] 
+  db --> X[automatic]
   X --> CM([fa:fa-users first level])
   db -- Email --> c([customer support]);
 ```
@@ -420,3 +423,8 @@ gitGraph
 
 {{% import path="shared-slides/devops/devops-intro.md" %}}
 
+---
+
+# Keystrokes
+
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Del</kbd>

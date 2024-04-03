@@ -27,10 +27,10 @@
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono');
 // @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono');
 
-// $backgroundColor: #fff;
+$backgroundColor: #fff;
 
-// $mainColor: #000;
-// $headingColor: #111;
+$mainColor: #000;
+$headingColor: #111;
 
 $mainFontSize: 2em;
 // $mainFont: 'Roboto', sans-serif;
@@ -49,6 +49,7 @@ $headingFontWeight: 600;
 $linkColor: #2690e7;
 $linkColorHover: lighten( $linkColor, 25% );
 $selectionBackgroundColor: lighten( $linkColor, 25% );
+$detailBackgroundColor: #bc2b0b; //#6b6b6b;// #bc2b0b;
 
 $heading1Size: 2.5em;
 $heading2Size: 1.6em;
@@ -227,3 +228,49 @@ kbd {
 	display: flex;
 	justify-content: center;
 }
+
+
+.reveal .slide-background {
+	background-color: $backgroundColor;
+	background-image: url("../unibo.svg");
+	background-repeat: no-repeat;
+	background-position: 0.45% 99.2%;
+	background-size: 25%;
+	background-clip: border-box;
+	border-radius: 30px;
+	border-style: solid;
+	border-color: $detailBackgroundColor;
+	border-width: 0.4em;
+}
+
+.reveal .slide-background:after {
+	content: "D. Pianini - Pervasive Computing @ Unibo / Cesena: overview";
+	position: absolute;
+	bottom: 2.5%;
+	right: 6%;
+	z-index: -1;
+	color: $detailBackgroundColor;
+	font-size: 1em;
+  }
+
+  // Keyboard keys
+
+kbd {
+	display: inline-block;
+	min-width: 1em;
+	text-align: center;
+	padding: 0.1em 0.4em;
+	font-size: 0.8em;
+	margin-left: 0.1em;
+	margin-right: 0.2em;
+	color: $mainColor;
+	background-color: $backgroundColor;
+	border-radius: 0.2em;
+	border-style: solid;
+	border-width: 0.1em;
+	box-shadow: 0 0 0.1em $mainColor, 0.1em 0.1em 0em $mainColor;
+	font-family: 'Inconsolata';
+	font-weight: normal;
+  }
+
+
