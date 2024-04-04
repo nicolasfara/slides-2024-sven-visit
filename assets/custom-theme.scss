@@ -292,8 +292,9 @@ kbd {
 	// draw a red border
 	// border: 1px solid red;
 	text-align: left;
-	border: 1px solid #000;
-	border-radius: 0.2em;
+	border: .2em dashed $detailBackgroundColor;
+	border-style: double;
+	border-radius: 1em;
 	padding: 0.5em;
 }
 
