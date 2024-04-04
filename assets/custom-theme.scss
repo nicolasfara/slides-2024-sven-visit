@@ -12,12 +12,12 @@
 // @import url('https://fonts.googleapis.com/css2?family=Open+Sans');
 
 // Serif
-// @import url('https://fonts.googleapis.com/css2?family=Cinzel');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel');
 
 // Handwriting
 
 // @import url('https://fonts.googleapis.com/css2?family=Dancing+Script');
-// @import url('https://fonts.googleapis.com/css2?family=Satisfy');
+@import url('https://fonts.googleapis.com/css2?family=Handlee');
 
 // Display
 // @import url('https://fonts.googleapis.com/css2?family=Fredoka+One');
@@ -25,7 +25,8 @@
 // Monospace
 @import url('https://fonts.googleapis.com/css2?family=Inconsolata');
 @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono');
-// @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono');
+// @import url('https://fonts.googleapis.com/css2?family=Wellfleet');
 
 $backgroundColor: #fff;
 
@@ -98,9 +99,23 @@ section.has-light-background {
 	color: black;
 }
 
+.reveal h1 {
+	text-transform: none;
+}
+
+.reveal h2 {
+	text-transform: none;
+}
+
 .reveal h3 {
+	text-transform: none;
 	margin: .5em 0 0;
 }
+
+.reveal h4 {
+	text-transform: none;
+}
+
 
 .reveal ul {
 	margin: .2em .2em .2em;
@@ -115,11 +130,11 @@ section.has-light-background {
 .reveal blockquote {
 	width:90%;
 	margin:0.3em auto;
-	font-family: 'Satisfy';
+	font-family: 'Handlee';
 	font-style: normal;
-	font-size: 1.2em;
+	font-size: 1em;
 	color: #333333;
-	padding:0.1em 0.1em 0.1em 0.1em;
+	padding: 0.3em 1.5em 0em 1.5em;
 	border-color: #039418;
 	border-style: solid;
 	border-width: 0.1em;
@@ -163,10 +178,10 @@ section.has-light-background {
 .reveal cite {
 	display: block;
 	text-align: right;
-	padding-right: 10%;
+	padding-right: 3%;
 	padding-top: 0.5em;
 	font-weight: bolder;
-	font-family: 'Cinzel';
+	font-family: 'Ubuntu Mono';
 	font-size: 0.7em;
 }
 
@@ -271,6 +286,22 @@ kbd {
 	box-shadow: 0 0 0.1em $mainColor, 0.1em 0.1em 0em $mainColor;
 	font-family: 'Inconsolata';
 	font-weight: normal;
-  }
+}
 
+.reveal div.col {
+	// draw a red border
+	// border: 1px solid red;
+	text-align: left;
+	border: 1px solid #000;
+	border-radius: 0.2em;
+	padding: 0.5em;
+}
 
+.reveal div.container {
+	// border: 1px solid red;
+	align-self: center;
+	min-width: 90%;
+	margin-right: 5%;
+	margin-left: 5%;
+	margin-top: 1em;
+}
