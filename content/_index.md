@@ -127,9 +127,10 @@ Collective wisdom is more likely to arise when sound judgment is based on the en
 </blockquote>
 
 {{% multicol %}}{{% col %}}
-#### Multi-Agent Reinforcement Learning
-* Gianluca add some bullets
-* **Gianluca** will gianluca completa<br>*Gianluca metti un titolo*
+#### Multi-Agent Reinforcement Learning 
+* Hybrid approach to learning -- combining learning with macroprogramming
+* Focus on large-scale -- learning systems that scale to thousands of agents
+* **Gianluca** will show some recent advances: <br>*Engineering Swarm Behaviours through Hybrid Aggregate Computing*</br>
 {{% /col %}}{{% col %}}
 #### Specialized federated learning
 * Davide add some bullets
