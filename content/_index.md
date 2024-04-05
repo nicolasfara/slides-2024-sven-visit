@@ -235,5 +235,5 @@ Every once in a while, a new technology, an old problem, and a big idea turn int
 1. **Martina Baiardi**: *Martina write a title and send me a PR*
 1. **Nicolas Farabegoli**: *Davide write a title and send me a PR*
 1. **Giovanni Ciatto**: *Giovanni write a title and send me a PR*
-1. **Angelo Filaseta**: *Angelo write a title and send me a PR*
+1. **Angelo Filaseta**: *Wood 4.0: Software management and evolution for manufacturing machine*
 1. **Ruslan Shaiakhmetov**: *Closing the gap between reality and simulation in motorsport*
