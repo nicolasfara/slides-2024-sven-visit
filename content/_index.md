@@ -127,7 +127,7 @@ Collective wisdom is more likely to arise when sound judgment is based on the en
 </blockquote>
 
 {{% multicol %}}{{% col %}}
-#### Multi-Agent Reinforcement Learning 
+#### Multi-Agent Reinforcement Learning
 * Hybrid approach to learning -- combining learning with macroprogramming
 * Focus on large-scale -- learning systems that scale to thousands of agents
 * **Gianluca** will show some recent advances: <br>*Engineering Swarm Behaviours through Hybrid Aggregate Computing*</br>
@@ -233,7 +233,7 @@ Every once in a while, a new technology, an old problem, and a big idea turn int
 1. **Danilo Pianini**: *Simulation and software process engineering in pervasive computing*
 1. **Angela Cortecchia**: *Aggregate Programming in Kotlin Multiplatform with Collektive*
 1. **Martina Baiardi**: *Martina write a title and send me a PR*
-1. **Nicolas Farabegoli**: *Davide write a title and send me a PR*
+1. **Nicolas Farabegoli**: *Nicolas write a title and send me a PR*
 1. **Giovanni Ciatto**: *Giovanni write a title and send me a PR*
 1. **Angelo Filaseta**: *Wood 4.0: Software management and evolution for manufacturing machine*
 1. **Ruslan Shaiakhmetov**: *Closing the gap between reality and simulation in motorsport*
