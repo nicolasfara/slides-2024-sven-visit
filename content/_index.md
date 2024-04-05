@@ -133,8 +133,10 @@ Collective wisdom is more likely to arise when sound judgment is based on the en
 * **Gianluca** will show some recent advances: <br>*Engineering Swarm Behaviours through Hybrid Aggregate Computing*</br>
 {{% /col %}}{{% col %}}
 #### Specialized federated learning
-* Davide add some bullets
-* **Davide** will davide completa<br>*Davide metti un titolo*
+* Learn a joint model without sharing data
+* Model peer-to-peer learning through aggregate computing
+* Address data heterogeneity through opportunistic clustered federated learning
+* **Davide** will provide an introduction<br>*Field Based Federated Learning*
 {{% /col %}}{{% /multicol %}}
 
 ---
@@ -227,7 +229,7 @@ Every once in a while, a new technology, an old problem, and a big idea turn int
 
 1. **Roberto Casadei**: *From Macro-programming to Aggregate Computing*
 1. **Gianluca Aguzzi**: *Gianluca write a title and send me a PR*
-1. **Davide Domini**: *Davide write a title and send me a PR*
+1. **Davide Domini**: *Field Based Federated Learning*
 1. **Danilo Pianini**: *Simulation and software process engineering in pervasive computing*
 1. **Angela Cortecchia**: *Aggregate Programming in Kotlin Multiplatform with Collektive*
 1. **Martina Baiardi**: *Martina write a title and send me a PR*
