@@ -233,7 +233,7 @@ Every once in a while, a new technology, an old problem, and a big idea turn int
 1. **Danilo Pianini**: *Simulation and software process engineering in pervasive computing*
 1. **Angela Cortecchia**: *Aggregate Programming in Kotlin Multiplatform with Collektive*
 1. **Martina Baiardi**: *Martina write a title and send me a PR*
-1. **Nicolas Farabegoli**: "Opportunistic Deployment and Runtime Execution in the Edge-Cloud Continuum*
+1. **Nicolas Farabegoli**: *Opportunistic Deployment and Runtime Execution in the Edge-Cloud Continuum*
 1. **Giovanni Ciatto**: *Giovanni write a title and send me a PR*
 1. **Angelo Filaseta**: *Wood 4.0: Software management and evolution for manufacturing machine*
 1. **Ruslan Shaiakhmetov**: *Closing the gap between reality and simulation in motorsport*
